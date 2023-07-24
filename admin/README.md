@@ -13,28 +13,19 @@ npm i tsparticles
 npm i axios
 ```
 
-## 安装jsonwebtoken(jwt) 用于生成token令牌 /server
-```
-npm i jsonwebtoken --save
-```
-
 ## 安装持久化库vuex-persistedstate
 ## 可以让store中的内容持久存储，解决：在刷新页面页面后，vuex所保存的数据会丢失问题
 ```
 npm i vuex-persistedstate
 ```
 
-## 安装multer 用于处理multipart/form-data类型的表单数据，不会处理非multipart/form-data类型的表单数据 /server
-```
-npm i multer --save
-```
 
-## 安装wangeditor  /admin   
+## 安装wangeditor
 ```
 npm i wangeditor --save
 ```
 
-## 安装moment /admin
+## 安装moment
 ```
 npm i moment --save
 ```

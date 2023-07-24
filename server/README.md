@@ -22,3 +22,14 @@ npm i mongoose --save
 ## mongodb的启动，进入：cd /usr/local/mongodb，在终端输入:mongod --fork -dbpath data --logpath log/mongo.log --logappend
 ## 重新打开一个终端，输入cd /usr/local/mongodb命令进入mongodb目录下，输入mongo
 ## mongodb的关闭  进入以上界面中输入use admin回车,然后输入db.shutdownServer()
+
+
+## 安装jsonwebtoken(jwt) 用于生成token令牌
+```
+npm i jsonwebtoken --save
+```
+
+## 安装multer 用于处理multipart/form-data类型的表单数据，不会处理非multipart/form-data类型的表单数据
+```
+npm i multer --save
+```

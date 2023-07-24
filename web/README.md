@@ -13,7 +13,7 @@ npm install --save nprogress
 ```
 npm i moment --save
 ```
-## 安装lodash 是一套工具库，内部封装了很多字符串、数组、对象等常见数据类型的处理函数
+## 安装lodash工具库，内部封装了字符串、数组、对象等常见数据类型的处理函数
 ```
 npm i lodash --save
 ```
